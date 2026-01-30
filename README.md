@@ -28,4 +28,8 @@ This project simulates basic ATM operations such as **Deposit**, **Withdrawal**,
 ---
 
 ##  Project Structure
+bank/ 
+│
+├── passbook1.py
+├── README.md
 
