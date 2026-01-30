@@ -1,4 +1,4 @@
-#  ATM Management System with OTP Verification (Python + MySQL)
+#  ATM Management System (passbook) (Python + MySQL)
 
 A console-based **ATM Management System** built using **Python**, **MySQL**, and **Email OTP verification**.  
 This project simulates basic ATM operations such as **Deposit**, **Withdrawal**, and **Balance Inquiry**, while securely logging all transactions in a MySQL database and a local passbook file.
